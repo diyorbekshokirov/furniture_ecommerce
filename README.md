@@ -39,7 +39,7 @@ This project relies on the following Flutter packages:
 
 To run the Furniture E-commerce App UI project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/saidjohn/furniture_ecommerce.git`
+1. Clone the repository: `git clone https://github.com/shokirovdiyorbek/furniture_ecommerce.git`
 2. Open the project in your preferred IDE or code editor.
 3. Ensure you have Flutter SDK installed.
 4. Run `flutter pub get` to fetch the project dependencies.
@@ -66,7 +66,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
-- LinkedIn: [Saidjon](https://www.linkedin.com/in/saidjonsaidov)
+- Email: [shokirovdiyorbek629@gmail.com](mailto:shokirovdiyorbek629@gmail.com)
+
 
 Thank you for checking out the Furniture E-commerce App UI project!
